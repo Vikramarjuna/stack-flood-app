@@ -161,7 +161,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>stack-flood</finalName>
+		<finalName>stack-flood-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
